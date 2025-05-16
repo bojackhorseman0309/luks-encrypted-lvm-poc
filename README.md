@@ -62,3 +62,10 @@ Referencias:
 - https://debugging.works/blog/your-fde-is-useless/
 - https://github.com/curtishoughton/Penetration-Testing-Cheat-Sheet/blob/master/File-Transfer/readme.md
 - https://www.hackingarticles.in/file-transfer-cheatsheet-windows-and-linux/
+
+# Disclaimer
+
+Este código es solo para fines educativos y de investigación. No se debe utilizar para actividades ilegales o no éticas.
+El uso indebido de este código puede resultar en consecuencias legales.
+El autor no se hace responsable de ningún daño o pérdida que pueda resultar del uso de este código.
+```
